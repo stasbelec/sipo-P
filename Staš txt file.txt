@@ -1,0 +1,32 @@
+Git hub sipo-P
+
+1.Kaj je OS?
+Operacijski sistem je programska oprema
+
+2. 3 naloge
+Upravlja programe, nadzor nad pomnilnikom, komunicira z strojno opremo
+
+3.Win/Linux/mac OS
+Linux je odprtokoden medtem ko sta macOS in Windows lastniÁka sistema
+Windows je najbolj razÁirjen in ima najveüje podpore za igre
+Linux in mac OS sta bolj varna
+Linux je brezplaüen
+
+4. kaj pomeni da se naloßi ob zagon
+Da se program zaßene takoj ko se prißge raüunalnik ali OS
+
+5.kaj je gonilnik
+Gonilniki so programska oprema, ki omogoüa da lahko OS in strojna oprema ali zunanje naprave komunicirajo
+
+6.kje ga rabimo
+Gonilnik rabimo v vseh raüunalnikih ali pametnih napravah
+
+7.HDD vs SSD
+HDD: ima mehanske dele, je poüasnejÁi od SSD, se lahko hitro poÁkoduje, cenejÁi za veliko prostora.
+SSD: je zelo hiter, zavzame malo prostora (fiziüno), je draßji, je bolj odporen na udarce.
+
+8.kaj je particija
+Particija je ko en disk (HDD ali SSD) lahko razdeliÁ na veü delov, ki jih raüunalnik vidi kot veü loüenih enot.
+Primer: SSD je velik 1TB in ga razdeliÁ na 2 dela
+Particija C: za sistemske programe
+Particija D: za dokumente, slike,
